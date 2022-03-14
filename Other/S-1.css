@@ -1,0 +1,21 @@
+p {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color:#ccc;
+    float: left;
+}
+
+.highlight{
+    background-color: red;
+}
+ body{
+     width: 50%;
+     margin:0 auto;
+     background: #fff;
+     height:100vh;
+ }
+
+ html{
+     background:#444;
+ }
